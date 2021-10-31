@@ -6,7 +6,7 @@ This project was done as a remote project intern at the Department of Electrical
 ## The working of openai_ros used in the project
 ![Screenshot](images.png) </br></br>
 
-## The basic control of UR5 usinf Move Group Python Interface
+## The basic control of UR5 using Move Group Python Interface
 ![Screenshot](basic_control.png)</br></br>
 
 ## The directory structure of the project
