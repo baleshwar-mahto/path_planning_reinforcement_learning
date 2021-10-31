@@ -10,5 +10,5 @@ This project was done as a remote project intern at the Department of Electrical
 ![Screenshot](basic_control.png)</br></br>
 
 ## The directory structure of the project
-![Screenshot](dic_structure_move (copy).png)
+![Screenshot](dic_structure_move.png)
 
