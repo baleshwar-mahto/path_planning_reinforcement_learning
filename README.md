@@ -10,5 +10,10 @@ This project was done as a remote project intern at the Department of Electrical
 ![Screenshot](basic_control.png)</br></br>
 
 ## The directory structure of the project
-![Screenshot](dic_structure_move.png)
+![Screenshot](dic_structure_move.png)</br></br>
+
+## Training of the Reinforcement Learning agent in the online Construct platform
+![Screenshot](ur5_rviz-1.png)</br></br>
+
+![Screenshot](rl_train.png)
 
