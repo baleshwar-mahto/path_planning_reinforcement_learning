@@ -1,4 +1,5 @@
-# Trajectory Planning of Robotic Arm Using Reinforcement Learning
+# Trajectory Planning of Robotic Arm Using Reinforcement Learning </br></br>
+![Screenshot](basic-control-ur5.GIF)
 
 [Youtube Video link for Project demo](https://youtu.be/BweuW_VBabs)
 ## About
