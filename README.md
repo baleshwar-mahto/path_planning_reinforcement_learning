@@ -14,7 +14,8 @@ More info on Move Group Python Interface of MoveIt can be found [here](http://do
 ## The directory structure of the project
 ![Screenshot](dic_structure_move.png)</br></br>
 
-## Training of the Reinforcement Learning agent in the online Construct platform
+## Training of the Reinforcement Learning agent in the online Construct platform </br>
+The link to the online Construct platform used to train the RL agent can be found [here .](https://www.theconstructsim.com/) .</br>
 ![Screenshot](ur5_rviz-1.png)</br></br>
 
 ![Screenshot](rl_train.png)
