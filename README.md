@@ -8,9 +8,9 @@ This project was done as a remote project intern at the Department of Electrical
 ![Screenshot](images.png) </br></br>
 More info on openai_ros package can be found [here.](http://wiki.ros.org/openai_ros)
 
-## The basic control of UR5 using Move Group Python Interface
+## The basic control of UR5 using Move Group Python Interface of MoveIt
 ![Screenshot](basic_control.png)</br></br>
-
+More info on Move Group Python Interface of MoveIt can be found [here](http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/move_group_python_interface/move_group_python_interface_tutorial.html)
 ## The directory structure of the project
 ![Screenshot](dic_structure_move.png)</br></br>
 
