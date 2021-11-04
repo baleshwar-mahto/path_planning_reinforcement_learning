@@ -7,7 +7,7 @@ This project was done as a remote project intern at the Department of Electrical
 
 ## About UR5 Robotic Arm
 The Universal Robots UR5, a highly flexible robotic arm that enables safe automation of repetitive, risky tasks. With a carrying capacity of 5 KG and a radius of 850 mm, it is the perfect cobot for performing light tasks such as packing, assembly or testing.</br>
-The UR5 is very easy to set up and program. This gives it one of the fastest payback times on the market. This robot can be operational in less than half a day thanks to the simple way of programming with a 3D visualisation. The robot can be moved manually to the right positions, after which it is stored and can be further adjusted on a touchscreen tablet.
+The UR5 is very easy to set up and program. This gives it one of the fastest payback times on the market. This robot can be operational in less than half a day thanks to the simple way of programming with a 3D visualisation. The robot can be moved manually to the right positions, after which it is stored and can be further adjusted on a touchscreen tablet. More info on UR5 robotic arm can be found [here .](https://www.universal-robots.com/products/ur5-robot/)
 
 ## The working of openai_ros used in the project
 ![Screenshot](images.png) </br></br>
@@ -23,5 +23,7 @@ One of the simplest MoveIt user interfaces is through the Python-based Move Grou
 The link to the online Construct platform used to train the RL agent can be found [here .](https://www.theconstructsim.com/) .</br>
 ![Screenshot](ur5_rviz-1.png)</br></br>
 
-![Screenshot](rl_train.png)
+![Screenshot](rl_train.png) </br></br>
+![Screenshot](reward.png) </br></br>
+
 
